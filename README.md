@@ -4,6 +4,8 @@
 
 In the age of rapid technological change, understanding the value of what we use is more essential than ever. The **Laptop Price Predictor** isn’t just a machine learning model — it's a tool designed to bring clarity to consumers, students, and tech enthusiasts. It gives you the power to estimate laptop prices using data-driven insights and intelligent modeling.
 
+[Output](https://github.com/AdilShamim8/Laptop-Price-Predictor/blob/main/OutPut.gif)
+
 ## Vision
 
 This project exists to simplify how we understand pricing in the tech market. By analyzing hardware specifications and leveraging regression algorithms, this model reveals how various features—like processor type, RAM, storage, and brand—translate into cost.
@@ -59,4 +61,4 @@ Great products are rarely built alone. If you see room for improvement, you're i
 
 ## License
 
-This project is licensed under the MIT License. See the `[LICENSE](LICENSE)` file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
